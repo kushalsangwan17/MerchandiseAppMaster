@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Merchandise App</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="select_category_of_the_item_to_be_sold">Select category of the item to be sold</string>
+    <string name="men_s_wear">Men\'s Wear</string>
+    <string name="enter_details">enter details</string>
+    <string name="size">size</string>
+    <string name="colour">colour</string>
+    <string name="price">price</string>
+    <string name="width">width</string>
+    <string name="length">length</string>
+    <string name="select_type_of_wear">select type of wear</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="confirm_product">Confirm Product</string>
+    <string name="productpic">productpic</string>
+    <string name="details">Details</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="image_of_product_o_be_sold">image of product o be sold</string>
+    <string name="products">Products</string>
+    <string name="logout">Logout</string>
+    <string name="products_sold">Products Sold</string>
+    <string name="add_apparels">Add Apparels</string>
+    <string name="merchant">Merchant</string>
+    <string name="buy_product">Buy Product</string>
+</resources>
